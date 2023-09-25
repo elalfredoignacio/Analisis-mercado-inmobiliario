@@ -1,7 +1,7 @@
 # Analisis mercado inmobiliario
  Proyecto de Business Analytics para la compra de inmuebles para alquiler temporario
 
-Este caso simula el caso de una empresa inmobiliaria que hace inversiones en grandes ciudades comprando inmuebles para posteriormente alquilarlos como apartamentos turísticos.
+Se simula el caso de una empresa inmobiliaria que hace inversiones en grandes ciudades comprando inmuebles para posteriormente alquilarlos como apartamentos turísticos.
 
 La dirección ha tomado la decisión de invertir en Madrid, y nos ha encargado analizar los datos que el líder del sector AirBnb hace públicos para intentar encontrar los tipos de inmuebles que tienen mayor potencial comercial para alquier turístico.
 
